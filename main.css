@@ -1,0 +1,14 @@
+label {
+	font-weight: bold;
+}
+
+div {
+	margin: 10px 0 10px 0;
+}
+
+#calculate-button {
+	background-color: darkblue;
+	color: white;
+	width: 10em;
+	height: 2em;
+}
